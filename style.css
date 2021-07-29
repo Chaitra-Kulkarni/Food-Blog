@@ -6,8 +6,6 @@
 header {
     /* height: 70px; */
     background-color: #f0f8ff;
-    color: #000;
-    /* margin: 0 0 20px 0; */
     padding: 20px 30px;
 }
 
@@ -30,7 +28,6 @@ nav li {
 }
 nav a {
     color: #0f3c63;
-    /* padding: 2px; */
     text-decoration: none;
 }
 
