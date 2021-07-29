@@ -20,12 +20,11 @@ var foodItemDetails = [
 ];
 
 
-
-// document.body.appendChild(foodContainer);
-// console.log(foodContainer);
 let elements = '';
+
 // Iterating through each element of the Array
 for (let i = 0; i < foodItemDetails.length; i++) {
+    
     // Creating the Elements
     const foodItem = document.createElement('div');
     const itemImage = document.createElement('img');
